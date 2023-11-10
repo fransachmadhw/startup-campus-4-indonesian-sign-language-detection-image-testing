@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>minum2.jpg</filename>
+	<path>/my-project-name/minum2.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>3000</width>
+		<height>4000</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>Minum</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1627</xmin>
+			<ymin>1683</ymin>
+			<xmax>2394</xmax>
+			<ymax>2525</ymax>
+		</bndbox>
+	</object>
+</annotation>

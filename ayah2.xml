@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>ayah2.jpg</filename>
+	<path>/my-project-name/ayah2.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>3000</width>
+		<height>4000</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>Ayah</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1098</xmin>
+			<ymin>1251</ymin>
+			<xmax>1753</xmax>
+			<ymax>2138</ymax>
+		</bndbox>
+	</object>
+</annotation>

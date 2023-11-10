@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>kakak3.jpg</filename>
+	<path>/my-project-name/kakak3.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>3000</width>
+		<height>4000</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>Kakak</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1463</xmin>
+			<ymin>1549</ymin>
+			<xmax>2766</xmax>
+			<ymax>3523</ymax>
+		</bndbox>
+	</object>
+</annotation>
